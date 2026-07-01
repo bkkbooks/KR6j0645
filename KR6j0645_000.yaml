@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0645/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說尊勝大明王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1413.xml
+    old_id: T21n1413
+hash: sha256:1f9914e4ea5bcb4d7281087e0bf08eb4b4020ecf50b204d08eb91ec8f2840ad4
