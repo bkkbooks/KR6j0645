@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0645_000.yaml, hash: 'sha256:1f9914e4ea5bcb4d7281087e0bf08eb4b4020ecf50b204d08eb91ec8f2840ad4'}
-  - {seq: 1, filename: KR6j0645_001.yaml, hash: 'sha256:1ca4edd56510ffd09028e04bb7b5222e9341d92bb6cf1cae6fa5938ceb54db1a'}
+  - {seq: 1, filename: KR6j0645_001.yaml, hash: 'sha256:ae39f5a5daebfa5ffd32caf8d9fda400a44435bcb78e2e3694a1e59605dabfac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0645_001.markers.yaml, hash: 'sha256:69779b62b10b63c66b77c677f4c9e82072876f9ba288ae87afe4db4cdff30a25'}
+  - {seq: 0, role: markers, filename: assets/KR6j0645_000.markers.yaml, hash: 'sha256:1712f68151f44574e757661d373409d8bd8b6ec2d80eeb478b0ce7a0ac2b1988'}
+  - {seq: 1, role: markers, filename: assets/KR6j0645_001.markers.yaml, hash: 'sha256:74293d6cd71fe11669ed2590f94ea07a6358db80cd5f005aa3e0f3c084f5fc76'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說尊勝大明王經
   type: juan
   level: 1
-hash: sha256:180ca71641f70d1dfcd105ed743d9c380673f55eed127fcbb52102ac5818cb22
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b303790fd377cff5b07012a7e2b264846aba14bb45f8330b885750930a17b0f8
