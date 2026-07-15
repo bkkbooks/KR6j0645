@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0645/v1
 canonical_location: https://kanripo.org/bkk/KR6j0645/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說尊勝大明王經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0645_000.yaml, hash: 'sha256:1f9914e4ea5bcb4d7281087e0bf08eb4b4020ecf50b204d08eb91ec8f2840ad4'}
-  - {seq: 1, filename: KR6j0645_001.yaml, hash: 'sha256:ae39f5a5daebfa5ffd32caf8d9fda400a44435bcb78e2e3694a1e59605dabfac'}
+  - {seq: 1, filename: KR6j0645_001.yaml, hash: 'sha256:17bbc90981232eca1322a2222a94860a04124fb795e9a0eedbd459eb6d0e58de'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0645_000.markers.yaml, hash: 'sha256:1712f68151f44574e757661d373409d8bd8b6ec2d80eeb478b0ce7a0ac2b1988'}
-  - {seq: 1, role: markers, filename: assets/KR6j0645_001.markers.yaml, hash: 'sha256:74293d6cd71fe11669ed2590f94ea07a6358db80cd5f005aa3e0f3c084f5fc76'}
+  - {seq: 1, role: markers, filename: assets/KR6j0645_001.markers.yaml, hash: 'sha256:fe81f43b1bcfc76035d15a9c03d681b8cfb77ab00f638084778ea8398b77d84c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說尊勝大明王經
   type: juan
   level: 1
-hash: sha256:b303790fd377cff5b07012a7e2b264846aba14bb45f8330b885750930a17b0f8
+hash: sha256:a9aa6e5468a6b566cfb4b542aab44e7c34cb90b215e06d2a2b783733f74325b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
